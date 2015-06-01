@@ -78,6 +78,7 @@ The following list is a compiled wishlist of applications that would be nice-to-
 * [Syncthing](http://syncthing.net/)
 * [Taiga](https://taiga.io/)
 * [TorChat](https://github.com/prof7bit/TorChat)
+* [Taskwarrior](http://taskwarrior.org/)
 * [Total Respawn](https://github.com/broncowdd/TotalRespawn)
 * [Twister](http://twister.net.co/)
 * [Unvis](https://github.com/phixofor/unvis.it)
