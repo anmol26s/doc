@@ -29,7 +29,9 @@ ssh-keygen
 ssh-copy-id -i ~/.ssh/id_rsa.pub <your_yunohost_server>
 ```
 
-Type your admnistration password and your key will be copied on your server. 
+Type your admnistration password and your key will be copied on your server.
+
+**Note:** If you get **Agent admitted failure to sign using the key.** while login from ssh, run ```bash ssh-add ``` to fix the message.
 
 **On your server**, edit the SSH configuration file, in order to deactivate the password authentication.
 
